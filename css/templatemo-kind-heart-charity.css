@@ -1065,7 +1065,7 @@ blockquote::before {
   CONTACT               
 -----------------------------------------*/
 .contact-section {
-  background: var(--blue-color);
+  background: var(--white-color);
 }
 
 .contact-form {
